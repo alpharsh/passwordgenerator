@@ -4,7 +4,7 @@ This is a simple web app built using React that generates random passwords based
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/react-password-generator.git`
+1. Clone the repository: `git clone https://github.com/alpharsh/passwordgenerator.git`
 2. Navigate to the project directory: `cd passwordgenerator`
 3. Install the dependencies: `npm install`
 
