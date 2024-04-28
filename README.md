@@ -2,6 +2,9 @@
 
 This is a simple web app built using React that generates random passwords based on user preferences. It allows users to specify the length of the password and choose whether to include numbers and special characters.
 
+## Live Website
+You can visit the live website [here](https://passgene.vercel.app/).
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/alpharsh/passwordgenerator.git`
